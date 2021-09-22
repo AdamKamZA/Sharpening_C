@@ -1,0 +1,16 @@
+D:\Documents\VS_Code\.Personal\GithubProjects\Sharpening_C\Cyphers\CaesarCypher\CaesarCypher\bin\Debug\net5.0\CaesarCypher.exe
+D:\Documents\VS_Code\.Personal\GithubProjects\Sharpening_C\Cyphers\CaesarCypher\CaesarCypher\bin\Debug\net5.0\CaesarCypher.deps.json
+D:\Documents\VS_Code\.Personal\GithubProjects\Sharpening_C\Cyphers\CaesarCypher\CaesarCypher\bin\Debug\net5.0\CaesarCypher.runtimeconfig.json
+D:\Documents\VS_Code\.Personal\GithubProjects\Sharpening_C\Cyphers\CaesarCypher\CaesarCypher\bin\Debug\net5.0\CaesarCypher.runtimeconfig.dev.json
+D:\Documents\VS_Code\.Personal\GithubProjects\Sharpening_C\Cyphers\CaesarCypher\CaesarCypher\bin\Debug\net5.0\CaesarCypher.dll
+D:\Documents\VS_Code\.Personal\GithubProjects\Sharpening_C\Cyphers\CaesarCypher\CaesarCypher\bin\Debug\net5.0\ref\CaesarCypher.dll
+D:\Documents\VS_Code\.Personal\GithubProjects\Sharpening_C\Cyphers\CaesarCypher\CaesarCypher\bin\Debug\net5.0\CaesarCypher.pdb
+D:\Documents\VS_Code\.Personal\GithubProjects\Sharpening_C\Cyphers\CaesarCypher\CaesarCypher\obj\Debug\net5.0\CaesarCypher.csproj.AssemblyReference.cache
+D:\Documents\VS_Code\.Personal\GithubProjects\Sharpening_C\Cyphers\CaesarCypher\CaesarCypher\obj\Debug\net5.0\CaesarCypher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VS_Code\.Personal\GithubProjects\Sharpening_C\Cyphers\CaesarCypher\CaesarCypher\obj\Debug\net5.0\CaesarCypher.AssemblyInfoInputs.cache
+D:\Documents\VS_Code\.Personal\GithubProjects\Sharpening_C\Cyphers\CaesarCypher\CaesarCypher\obj\Debug\net5.0\CaesarCypher.AssemblyInfo.cs
+D:\Documents\VS_Code\.Personal\GithubProjects\Sharpening_C\Cyphers\CaesarCypher\CaesarCypher\obj\Debug\net5.0\CaesarCypher.csproj.CoreCompileInputs.cache
+D:\Documents\VS_Code\.Personal\GithubProjects\Sharpening_C\Cyphers\CaesarCypher\CaesarCypher\obj\Debug\net5.0\CaesarCypher.dll
+D:\Documents\VS_Code\.Personal\GithubProjects\Sharpening_C\Cyphers\CaesarCypher\CaesarCypher\obj\Debug\net5.0\ref\CaesarCypher.dll
+D:\Documents\VS_Code\.Personal\GithubProjects\Sharpening_C\Cyphers\CaesarCypher\CaesarCypher\obj\Debug\net5.0\CaesarCypher.pdb
+D:\Documents\VS_Code\.Personal\GithubProjects\Sharpening_C\Cyphers\CaesarCypher\CaesarCypher\obj\Debug\net5.0\CaesarCypher.genruntimeconfig.cache
