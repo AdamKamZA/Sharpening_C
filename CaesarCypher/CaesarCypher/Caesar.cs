@@ -8,8 +8,8 @@ namespace CaesarCypher
 {
     class Caesar:ParentCypher
     {
-        //Hex code '!' to '~'
-        byte start=33, end=126;
+        //ASCII code '!' to '~'
+        byte start=32, end=126;
         string encrypted, decrypted;
 
         public string Encrypted { get => encrypted; set => encrypted = value; }
